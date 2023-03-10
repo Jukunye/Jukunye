@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jukunye</h1>
 <h3 align="center">Upcoming Software Engineer from Kenya</h3>
 <h4 align="center">Student👨‍💻👨‍💻 at ALX Africa</h4>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+![giphy](https://user-images.githubusercontent.com/122859193/224264176-888ea3fc-85d0-4e5a-bf16-ca558f80973f.gif)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🌱 I’m currently learning **C Programming**
 
