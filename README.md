@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C Programming**
 
-- 🤝 I’m looking for help with **basics of C language**
+- 💬 Ask me about **basics of C language**
 
 - 📫 How to reach me **jukuuyin@gmail.com**
 
