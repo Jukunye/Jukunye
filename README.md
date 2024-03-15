@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+My name is Jukunye.
+
+I'm a software developer from Kajiado, Kenya.
+
+🌱 I’m currently a student at [ALX Africa](https://www.alxafrica.com/) Software Engineering.
+
+
+
+# Summary
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jukunye&layout=compact&theme=monokai)
+
+* [GitHub as @jukunye (you are here)](https://github.com/jukunye)
+* [LinkedIn](https://linkedin.com/in/jukunye-shira-854972266)
+
 <!--
 **Jukunye/Jukunye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
