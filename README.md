@@ -4,7 +4,7 @@ My name is Jukunye.
 
 I'm a Full stack developer from Kajiado, Kenya.
 
-🌱 I’m currently a student at [ALX Africa](https://www.alxafrica.com/) Software Engineering.
+🌱 I’m currently [ALX Africa](https://www.alxafrica.com/) Software Engineering.
 
 
 
