@@ -4,7 +4,7 @@ My name is Jukunye.
 
 I'm a Full stack developer from Kajiado, Kenya.
 
-🌱 I’m currently [ALX Africa](https://www.alxafrica.com/) Software Engineering.
+I’m currently [ALX Africa](https://www.alxafrica.com/) Software Engineering.
 
 
 
@@ -14,6 +14,7 @@ I'm a Full stack developer from Kajiado, Kenya.
 
 * [GitHub as @jukunye (you are here)](https://github.com/jukunye)
 * [LinkedIn](https://linkedin.com/in/jukunye-shira-854972266)
+* [Website](https://jukunyes.vercel.app/)
 
 <!--
 **Jukunye/Jukunye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
